@@ -1,1 +1,1 @@
-# Base Project
+# Django one-time message
